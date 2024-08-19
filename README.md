@@ -5,7 +5,7 @@
 
   <div>
   <a href="https://github.com/AmorimCelio">
-  <img align="left" alt="Celio-draw" height="150" width="150" src="https://cdn.picrew.me/shareImg/org/202408/1473879_3Af9iJBE.png" />
+  <img align="right" alt="Celio-draw" height="150" width="150" src="https://cdn.picrew.me/shareImg/org/202408/1473879_3Af9iJBE.png" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AMorimCelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmorimCelio&layout=compact&langs_count=16&theme=dark"/>
 </div>
