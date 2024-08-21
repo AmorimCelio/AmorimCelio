@@ -1,11 +1,12 @@
-## Olá! Eu sou Célio Amorim
-
-- 🌱 Estudando Desenvolvimento Mobile
+##
+<h1 align="center"> HI! I am Célio Amorim
+<h3 align="center">A Mobile and Analyst Mobile developer from São Paulo, Brazil</h3>
+<img align="right" alt="Celio-draw" height="150" width="150" src="https://cdn.picrew.me/shareImg/org/202408/1473879_3Af9iJBE.png" />
+  - 🌱 Estudando Desenvolvimento Mobile
 - 😄 Pronouns: Ele/dele
 
   <div>
   <a href="https://github.com/AmorimCelio">
-  <img align="right" alt="Celio-draw" height="150" width="150" src="https://cdn.picrew.me/shareImg/org/202408/1473879_3Af9iJBE.png" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AMorimCelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmorimCelio&layout=compact&langs_count=16&theme=dark"/>
 </div>
