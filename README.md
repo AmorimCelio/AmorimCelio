@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> HI! I am Célio Amorim
-<h3 align="center">Mobile and Analyst Mobile Developer from São Paulo, Brazil</h3>
+<h3 align="center">Analyst and Mobile Developer from São Paulo, Brazil</h3>
 
 - 🌱 Estudando Desenvolvimento Mobile
 - 😄 Pronouns: Ele/dele
