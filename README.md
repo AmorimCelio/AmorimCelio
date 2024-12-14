@@ -1,9 +1,9 @@
 
 
 <h1 align="center"> HI! I am Célio Amorim
-<h3 align="center">Analyst and Developer from São Paulo, Brazil</h3>
+<h3 align="center"> UI/UX designer | Mobile & Front-End | Student Proa - 💙 from São Paulo, Brazil</h3>
 
-- 🌱 Estudando Desenvolvimento Mobile e Front End
+- 🌱 Mobile e Front End
 - 😄 Pronouns: Ele/dele
 
 ##
